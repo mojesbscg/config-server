@@ -1,5 +1,5 @@
 channel:
-  source: youtube
+  source: youtube default
   info:
-    name: JESUS SAVES
-    url: https://jesussaves.in
+    name: JESUS SAVES default
+    url: https://jesussavesdefault.in
