@@ -1,4 +1,4 @@
 channel:
-  source: youtube test
-  name: JESUS SAVES test
-  url: https://jesussavestest.in
+  source: youtube test spring-config-client-one
+  name: JESUS SAVES test spring-config-client-one
+  url: https://jesussaves-test-spring-config-client-one.in

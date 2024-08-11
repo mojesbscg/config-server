@@ -1,4 +1,4 @@
 channel:
-  source: youtube default spring-config-client-one
-  name: JESUS SAVES default spring-config-client-one
-  url: https://jesussavesdefault-spring-config-client-one.in
+  source: youtube local spring-config-client-one
+  name: JESUS SAVES local spring-config-client-one
+  url: https://jesussaves-local-spring-config-client-one.in
