@@ -1,4 +1,4 @@
 channel:
-  source: youtube default
-  name: JESUS SAVES default
-  url: https://jesussavesdefault.in
+  source: youtube default spring-config-client-one
+  name: JESUS SAVES default spring-config-client-one
+  url: https://jesussavesdefault-spring-config-client-one.in
